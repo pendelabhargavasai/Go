@@ -48,7 +48,7 @@ or
 source ~/.bashrc
 ```
 
-# Go Lang Setup (the easiest way)
+# Go Lang Setup (Alternative way using automated script)
 
 ### 1. Clone [update-golang](https://github.com/udhos/update-golang) by @udhos Great work man! 
 ``` 
