@@ -9,7 +9,7 @@ As mentioned [here](https://golang.org/doc/install#install), to update a go vers
 To uninstall, delete the `/usr/local/go` directory by:
 
 ```
-$ whereis go [eg: go: /usr/bin/go, /usr/local/go]
+$ whereis go [eg: /usr/bin/go, /usr/local/go]
 $ sudo rm -rf /usr/local/go
 ```
 
